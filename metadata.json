@@ -1,0 +1,6 @@
+{
+  "name": "Video Player",
+  "description": "High-performance video player featuring a dynamic themes system, glassmorphic UI, gestures, and live smart enhancer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
